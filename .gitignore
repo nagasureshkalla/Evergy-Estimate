@@ -1,0 +1,26 @@
+# --- added by auto-push: env, deps, build, models, large artifacts ---
+venv/
+.venv/
+env/
+node_modules/
+__pycache__/
+*.pyc
+bin/
+obj/
+.vs/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.log
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.gguf
+*.onnx
+*.bin
+*.zip
+*.tar
+*.tar.gz
